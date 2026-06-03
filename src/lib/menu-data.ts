@@ -234,7 +234,7 @@ export const MENU: MenuItem[] = [
     name: "Guarana 350ml",
     description: "Refrigerante gelado para acompanhar.",
     price: 6.0,
-    image: "https://images.unsplash.com/photo-1600271886742-f049cd451bba?w=800&q=80",
+    image: "https://ibb.co/7NrNrFrd/guarana.png",
     category: "Bebidas",
   },
   {
