@@ -234,7 +234,7 @@ export const MENU: MenuItem[] = [
     name: "Guarana 350ml",
     description: "Refrigerante gelado para acompanhar.",
     price: 6.0,
-    image: "https://ibb.co/7NrNrFrd",
+    image: "https://i.ibb.co/jPN9SrST/Guarana-350ml.jpg",
     category: "Bebidas",
   },
   {
@@ -242,7 +242,7 @@ export const MENU: MenuItem[] = [
     name: "Coca-Cola 1l",
     description: "Refrigerante gelado para acompanhar.",
     price: 9.0,
-    image: "https://ibb.co/QvSSFJpJ",
+    image: "https://i.ibb.co/r288GQFQ/coca-cola-litro.jpg",
     category: "Bebidas",
   }
 ];
