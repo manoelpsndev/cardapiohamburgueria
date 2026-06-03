@@ -19,7 +19,7 @@ export const STORE_NAME = "NaBrasa Burguer";
 export const PIX_KEY = "brasaburguer26@gmail.com";
 
 // Links sociais — EDITÁVEIS
-export const INSTAGRAM_URL = "https://instagram.com/nabrasaburguer";
+export const INSTAGRAM_URL = "https://https://www.instagram.com/brasaburguerdelivery1/";
 export const WHATSAPP_URL = "https://wa.me/5573998675007";
 
 // Logo da loja — substitua o arquivo em src/assets/logo.png para trocar
