@@ -195,7 +195,7 @@ export const MENU: MenuItem[] = [
     name: "Combo Casal",
     description: "2 Brasas Raiz + refrigerante Guarana de 1l.",
     price: 45.0,
-    image: "https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=800&q=80",
+    image: "https://i.ibb.co/yFSRC365/Combo-16.png",
     category: "Combos",
   },
   {
@@ -203,7 +203,7 @@ export const MENU: MenuItem[] = [
     name: "Combo Casal completo",
     description: "2 Brasas Raiz + refrigerante Guarana de 1l + 300g Batata temperada.",
     price: 62.0,
-    image: "https://images.unsplash.com/photo-1525059696034-4967a8e1dca2?w=800&q=80",
+    image: "https://i.ibb.co/d4GxdmCZ/Chat-GPT-Image-3-de-jun-de-2026-12-17-07.png",
     category: "Combos",
   },
 
