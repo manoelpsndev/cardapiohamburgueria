@@ -238,11 +238,11 @@ export const MENU: MenuItem[] = [
     category: "Bebidas",
   },
   {
-  id: "13",
+    id: "15",
     name: "Coca-Cola 1l",
     description: "Refrigerante gelado para acompanhar.",
     price: 9.0,
-    image: "https://images.unsplash.com/photo-1554866585-cd94860890b7?w=800&q=80",
+    image: "https://ibb.co/QvSSFJpJ",
     category: "Bebidas",
   }
 ];
