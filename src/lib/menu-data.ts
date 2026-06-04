@@ -13,7 +13,7 @@ export type Addon = {
   price: number;
 };
 
-export const DELIVERY_FEE = 8.0;
+export const DELIVERY_FEE = 5.0;
 export const WHATSAPP_NUMBER = "5573998675007";
 export const STORE_NAME = "NaBrasa Burguer";
 export const PIX_KEY = "brasaburguer26@gmail.com";
@@ -42,11 +42,11 @@ export const STORE_HOURS: {
   schedule: {
     0: { open: 18, close: 23 },             // Domingo
     1: { open: 0, close: 0, closed: true }, // Segunda — fechado
-    2: { open: 18, close: 23 },             // Terça
-    3: { open: 18, close: 23 },             // Quarta
-    4: { open: 18, close: 23 },             // Quinta
-    5: { open: 18, close: 24 },             // Sexta
-    6: { open: 18, close: 24 },             // Sábado
+    2: { open: 0, close: 0, closed: true }, // Terça - fechado
+    3: { open: 18.30, close: 23 },             // Quarta
+    4: { open: 18.30, close: 23 },             // Quinta
+    5: { open: 18.30, close: 23 },             // Sexta
+    6: { open: 18.30, close: 23 },             // Sábado
   },
 };
 
