@@ -38,7 +38,7 @@ export function MenuItemCard({ item }: { item: MenuItem }) {
 
         <div className="flex-1 min-w-0">
           <h3 className="font-bold text-base leading-tight">{item.name}</h3>
-          <p className="text-xs text-muted-foreground mt-1 line-clamp-2">
+          <p className="text-xs text-muted-foreground mt-1 whitespace-pre-line">
             {item.description}
           </p>
           <p className="text-primary font-bold mt-2">{formatBRL(item.price)}</p>
