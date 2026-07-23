@@ -155,7 +155,7 @@ export const MENU: MenuItem[] = [
   {
     id: "6",
     name: "Dupla Brasa",
-    description: "Pão Brioche, 2x Blend de 150g, 2x creme cheedar da casa, bacon artesanal, Molho da casa, alface, tomate.",
+    description: "Pão Brioche, 2x Blend de 150g, 2x creme cheedar da casa, Molho da casa, alface, tomate.",
     price: 33.0,
     image: "https://i.ibb.co/BK4HPLr4/dupla-brasa.jpg",
     category: "Especiais",
